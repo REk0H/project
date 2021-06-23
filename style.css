@@ -14,25 +14,12 @@ a{
     margin: 20px;
 }
 .menu{
-color: rgb(17, 17, 17);
-background-color: rgb(241, 224, 176);
+color: rgb(211, 211, 211);
+background-color: rgb(109, 0, 252);
 padding: 12px 30px;
 border-radius: 6px;
 text-decoration: none;
-}
-.Delivery{
-    color: rgb(17,17,17);
-    background-color: rgb(241, 224, 176);
-    padding: 12px 30px;
-    border-radius: 6px;
-    text-decoration: none;
-}
-.About{
-        color: rgb(17,17,17);
-        background-color: rgb(241, 224, 176);
-        padding: 12px 30px;
-        border-radius: 6px;
-        text-decoration: none;
+
 }
 .contact{
     background-color: rgb(214, 77, 77);
