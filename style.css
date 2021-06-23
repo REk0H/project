@@ -1,0 +1,71 @@
+body{
+    font-family: 'Dela Gothic One', cursive;
+    margin: 0;
+}
+
+header{
+    background-color: rgb(36, 36, 36);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+a{
+    color: rgb(231, 231, 231);
+    margin: 20px;
+}
+.menu{
+color: rgb(17, 17, 17);
+background-color: rgb(241, 224, 176);
+padding: 12px 30px;
+border-radius: 6px;
+text-decoration: none;
+}
+.Delivery{
+    color: rgb(17,17,17);
+    background-color: rgb(241, 224, 176);
+    padding: 12px 30px;
+    border-radius: 6px;
+    text-decoration: none;
+}
+.About{
+        color: rgb(17,17,17);
+        background-color: rgb(241, 224, 176);
+        padding: 12px 30px;
+        border-radius: 6px;
+        text-decoration: none;
+}
+.contact{
+    background-color: rgb(214, 77, 77);
+    color: rgb(211, 161, 80);
+    padding: 12px 30 px;
+    border-radius: 6px;
+    border: none;
+}
+
+.contact:hover{
+    background-color: rebeccapurple;
+    transform: scale(1.1) ;
+}
+
+button{
+    font-family: 'Dela Gothic One', cursive;
+    background-color: rgb(36, 36, 36);
+    color: papayawhip;
+    padding: 12px 30px;
+    border-radius: 6px;
+    border: none;
+}
+main{
+    background-image:linear-gradient(to top,black,rgba(0, 0, 0, 0)),  url(кофе.jpg);
+    min-height: 70vh;
+    color: peachpuff;
+    text-align: center;
+    padding-top: 70px;
+}
+h1{
+    margin: 0;
+    font-size: 50px;
+}
+.descr{
+    font-size: 30px;
+}
